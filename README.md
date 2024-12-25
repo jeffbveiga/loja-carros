@@ -15,5 +15,5 @@ Git e Github
 
 🔖 Layout
 
-![alt text](<Captura de tela 2024-12-25 111916.png>)
+![alt text](layout.png)
 
