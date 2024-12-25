@@ -1,2 +1,13 @@
-# loja-carros
+💻 Projeto
+Criação front-end de um site fictício de venda de carros.
+
+
+🚀 Tecnologias
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+HTML
+CSS
+Git e Github
+
+🔖 Layout
 Front-end de uma loja de carros fictícia.
